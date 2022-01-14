@@ -72,4 +72,4 @@ Your Name - [@twitter_handle](https://twitter.com/AnsariStark)
 Project Link: [https://github.com/The-Robin-Hood/Indian-Cryptos](https://github.com/The-Robin-Hood/Indian-Cryptos)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/Screenshot.png
