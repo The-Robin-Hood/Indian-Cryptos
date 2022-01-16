@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/AnsariStark)
+Ansari - [@twitter_handle](https://twitter.com/AnsariStark)
 
 Project Link: [https://github.com/The-Robin-Hood/Indian-Cryptos](https://github.com/The-Robin-Hood/Indian-Cryptos)
 
